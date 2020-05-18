@@ -1,4 +1,4 @@
-const crearMnesaje = (nombre, mensaje) => {
+const crearMensaje = (nombre, mensaje) => {
 	return {
 		nombre,
 		mensaje,
@@ -7,5 +7,5 @@ const crearMnesaje = (nombre, mensaje) => {
 };
 
 module.exports = {
-	crearMnesaje,
+	crearMensaje,
 };
